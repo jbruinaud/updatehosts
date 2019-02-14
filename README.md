@@ -1,2 +1,3 @@
 # updatehosts
 Powershell script to update hosts file with Hyper-V vms
+NB: Use at your own risk, backup your hosts file before running the script ...
